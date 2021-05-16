@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WillianYamakawa
-- 👀 I’m interested in gettingin a programming job
+- 👀 I’m interested in getting in a programming job
 - 🌱 I’m currently learning new stuff
 - 📫 How to reach me willianysouza2003@gmail.com
 
