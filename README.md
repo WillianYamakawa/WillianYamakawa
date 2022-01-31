@@ -1,5 +1,7 @@
 ### Em Busca de Uma Oportunidade como Desenvolvedor 🏷️🏷️🏷️
 
+[![Willian's GitHub stats](https://github-readme-stats.vercel.app/api?username=WillianYamakawa&show_icons=true&theme=dracula)
+
 <hr>
 
 ### Contato 
@@ -37,7 +39,7 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WillianYamakawa&theme=dark)](https://github.com/WillianYamakawa/WillianYamakawa)
-[![Willian's GitHub stats](https://github-readme-stats.vercel.app/api?username=WillianYamakawa&show_icons=true&theme=dracula)
+
 
 
 
