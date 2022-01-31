@@ -2,15 +2,13 @@
 
 <hr>
 
-### Contato
+### Contato 
 
 [![C#](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://github.com/WillianYamakawa/WillianYamakawa) willianysouza2003@gmail.com
 
 <hr>
 
 ### Linguagens 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WillianYamakawa&theme=dark)](https://github.com/WillianYamakawa/WillianYamakawa)
 
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/WillianYamakawa/WillianYamakawa)
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/WillianYamakawa/WillianYamakawa)
@@ -23,7 +21,7 @@
 
 <hr>
 
-### Banco de Dados
+### Banco de Dados 
 
 [![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/WillianYamakawa/WillianYamakawa)
 [![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://github.com/WillianYamakawa/WillianYamakawa)
@@ -31,11 +29,16 @@
 
 <hr>
 
-### Frameworks
+### Frameworks 
 
 [![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)](https://github.com/WillianYamakawa/WillianYamakawa)
 [![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)](https://github.com/WillianYamakawa/WillianYamakawa)
 
 
-![Willian's GitHub stats](https://github-readme-stats.vercel.app/api?username=WillianYamakawa&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WillianYamakawa&theme=dark)](https://github.com/WillianYamakawa/WillianYamakawa)
+[![Willian's GitHub stats](https://github-readme-stats.vercel.app/api?username=WillianYamakawa&show_icons=true&theme=dracula)
+
+
+
 
