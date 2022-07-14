@@ -1,4 +1,4 @@
-### Em Busca de Uma Oportunidade como Desenvolvedor 🏷️🏷️🏷️
+### Em Busca de Uma Oportunidade 🏷️
 
 ![Willian's GitHub stats](https://github-readme-stats.vercel.app/api?username=WillianYamakawa&show_icons=true&theme=dracula)
 
