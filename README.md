@@ -1,5 +1,3 @@
-### Programador I na Varixx
-
 ![Willian's GitHub stats](https://github-readme-stats.vercel.app/api?username=WillianYamakawa&show_icons=true&theme=dracula)
 
 <hr>
